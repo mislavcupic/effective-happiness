@@ -1,0 +1,2 @@
+chomper = "Marko"
+print( chomper)
