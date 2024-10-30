@@ -1,2 +1,2 @@
 chomper = "Marko"
-print( chomper)
+print(chomper)
